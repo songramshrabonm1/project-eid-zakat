@@ -81,3 +81,39 @@
     transition: .8ms;
     cursor: pointer;
 }
+.image1{
+    width: 190px;
+    height: 190px;
+    padding: 30px;
+}
+.part5{
+    display: flex;
+    margin: 0px 100px 20px 120px;
+}
+.image1:hover{
+    margin-top: -10px;
+    transition: .8ms;
+}
+.image11{
+    width: 150px;
+    height: 100px;
+    padding: 10px;
+    
+}
+.image11:hover{
+    cursor: pointer;
+    transition: .8ms;
+    margin-top: -5px;
+}
+.carrd{
+    display: flex;
+    margin: 50px 50px;
+    align-items: center;
+    justify-content: space-around;
+}
+.cd-1{
+    border: 1px solid red ;
+    padding: 20px;
+    margin: 20px;
+    background-color: rgba(137, 43, 226, 0.204);
+}
