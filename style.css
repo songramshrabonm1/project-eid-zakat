@@ -112,8 +112,26 @@
     justify-content: space-around;
 }
 .cd-1{
-    border: 1px solid red ;
+    border: 0px solid red ;
     padding: 20px;
     margin: 20px;
     background-color: rgba(137, 43, 226, 0.204);
+}
+.btn1{
+    color: rgb(210, 21, 21);
+}
+footer{
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+    
+    height: 150px;
+}
+footer h1{
+    text-align: center;
+    padding-top: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(215, 17, 17);
+    
 }
